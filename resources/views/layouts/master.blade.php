@@ -69,7 +69,7 @@
 		<script type="text/javascript" src="{{ asset('js/custom.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('js/masonry.pkgd.min.js') }}"></script>
 		<script type="text/javascript" src="{{ asset('js/custom.js') }}"></script>
-		<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
+		<script src="https://unpkg.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>
 		
     </body>
 </html>
